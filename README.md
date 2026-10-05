@@ -1,1 +1,1 @@
-# python_for_DE
+# py_for_de
